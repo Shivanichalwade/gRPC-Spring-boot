@@ -11,3 +11,7 @@ Older Java versions are not directly supported, but a branch remains available f
 Java version- 7
 
 gRPC Branch- 1.41.x
+
+# Generated Code
+- mvn clean install 
+
