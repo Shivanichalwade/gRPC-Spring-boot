@@ -12,6 +12,5 @@ Java version- 7
 
 gRPC Branch- 1.41.x
 
-# Generated Code
-- mvn clean install 
+- mvn clean install to generate code
 
